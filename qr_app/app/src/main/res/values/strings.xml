@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRS</string>
+    <string name="scan_qr_screen">QR Scanner</string>
+    <string name="wrong_hospital_id">Please enter available Hospital ID</string>
+    <string name="hospital_code">Hospital code</string>
+    <string name="let_s_start">Let\'s Start ➔</string>
+</resources>
